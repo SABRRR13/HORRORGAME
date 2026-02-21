@@ -1,0 +1,13 @@
+{
+  "name": "stream-horror-game",
+  "version": "1.0.0",
+  "description": "A text-based horror game about a streamer encountering supernatural events",
+  "main": "stream_horror_game.js",
+  "scripts": {
+    "start": "node stream_horror_game.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["horror", "game", "streaming", "supernatural", "text-based"],
+  "author": "AI Developer",
+  "license": "MIT"
+}
